@@ -75,7 +75,6 @@
 		</tbody>
 	</table>
 
-	<p></p>
 </body>
 </html>
 
